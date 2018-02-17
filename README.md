@@ -1,8 +1,6 @@
 # LUBUNTU CORPORATE MANUAL
 
 
-[coluorways](#logo-colourways)
-
 ![](/images/01.png)
 
 ## ABOUT THIS MANUAL
@@ -18,19 +16,20 @@ Please note that these pages were printed on a laser printer and colours are not
 
 ## CONTENT
 
-* THE LOGO
-* EXCLUSION ZONE
-* SIGNATURE
-* LOGO COLOUR WAYS
-* SIGNATURE COLOURWAYS
-* COLOURS
-* MINIMUM SIZE
-* INCORRECT USES
-* COLOUR COMBINATIONS
-* COMPANION LOGOS
-* TEAMS ICONS
-* WEB SYMBOLS
-* TYPOGRAPHY
+* [The Logo](#the-logo)
+* [Exclusion zone](#exclusion-zone)
+* [Signature](#signature)
+* [Logo Colour Ways](#logo-colour-ways)
+* [Signature Colourways](#signature-colourways)
+* [Colours](#colours)
+* [Minimum Size](#minimum-size)
+* [Incorrect Uses](#incorrect-uses)
+* [Colour Combinations](#colour-combinations)
+* [Companion Logos](#companion-logos)
+* [Teams Icons](#teams-icons)
+* [Web Symbols](#web-symbols)
+* [Typography](#typography)
+* [Thank you!](#thank-you)
 
 ##  THE LOGO
 
@@ -73,3 +72,65 @@ versions for web. It can only be used on one of the given colours.
 Never change any of the colours in the logo.
 ![](/images/06.png)
 
+## COLOURS
+
+![](/images/07.png)
+
+## MINIMUM SIZE
+
+The standard version of the logo must never be used at a width less than 5cm.
+
+![](/images/08.png)
+
+You must not...
+
+* Change the spacing between the individual elements of characters
+* Change the colour of the wordmark
+* Change the colour of the roundel or its contents
+* Change the arrangement of the elements
+* Place the logo at an angle other than horizontal or vertical
+* Change the proportions of the logo
+* Place the logo on a non brand colour
+
+Below you'll find examples of how the logo should not be used:
+
+![](/images/09.png)
+
+## COLOUR COMBINATIONS
+
+Depending on the background the logo might be shown in different ways.
+When the background intensity is over 50%intensity the logo will turn white.
+
+![](/images/10.png)
+![](/images/11.png)
+
+## COMPANION LOGOS
+
+The sub-brands or applied logos must followthe above rules.
+
+![](/images/12.png)
+
+## GITHUB / LAUNCHPAD ICONS
+
+The GitHub / Launchpad teams will be identified by "family icons", meaning that the main image will
+remain the **Lubuntu** icon, identifying each family (team) with a monochromatic overlay glyph.
+For the very small icons on Launchpad (14px) only the overlay will be used.
+
+![](/images/13.png)
+
+## WEB SYMBOLS
+
+Symbols used for links or illustrations in websites must followthis scheme:
+they shall use the corporate blue contour with white filling, never transparent.
+
+![](/images/14.png)
+
+## TYPOGRAPHY
+
+The typography used for all interfaces and media must be the Ubuntu Font, designed by Dalton Maag (https://font.ubuntu.com), in different weights if needed.
+
+![](/images/15.png)
+
+## THANK YOU! ♥
+
+The **Lubuntu** corporate image and the manual were possible thanks to the **Lubuntu Team** work and community support.
