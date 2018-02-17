@@ -127,7 +127,7 @@ they shall use the corporate blue contour with white filling, never transparent.
 
 ## TYPOGRAPHY
 
-The typography used for all interfaces and media must be the Ubuntu Font, designed by Dalton Maag (https://font.ubuntu.com), in different weights if needed.
+The typography used for all interfaces and media must be the [Ubuntu Font](https://font.ubuntu.com), designed by Dalton Maag, in different weights if needed.
 
 ![](/images/15.png)
 
