@@ -131,6 +131,8 @@ The typography used for all interfaces and media must be the Ubuntu Font, design
 
 ![](/images/15.png)
 
-## THANK YOU! ♥
+## THANK YOU!
+
+♥♥♥
 
 The **Lubuntu** corporate image and the manual were possible thanks to the **Lubuntu Team** work and community support.
