@@ -19,7 +19,7 @@ Please note that these pages were printed on a laser printer and colours are not
 * [The Logo](#the-logo)
 * [Exclusion zone](#exclusion-zone)
 * [Signature](#signature)
-* [Logo Colour Ways](#logo-colour-ways)
+* [Logo Colour Ways](#logo-colourways)
 * [Signature Colourways](#signature-colourways)
 * [Colours](#colours)
 * [Minimum Size](#minimum-size)
@@ -56,8 +56,6 @@ Colour of the roundel can only be Blue #68c8ff or Grey.
 
 ## LOGO COLOURWAYS
 
-### Wordmark - available colourways
-
 The wordmark is supplied as Pantone®and CMYK version for print, and RGB / HEX
 versions for web. It can only be used on one of the given colours.
 
@@ -81,6 +79,8 @@ Never change any of the colours in the logo.
 The standard version of the logo must never be used at a width less than 5cm.
 
 ![](/images/08.png)
+
+## INCORRECT USES
 
 You must not...
 
@@ -106,11 +106,11 @@ When the background intensity is over 50%intensity the logo will turn white.
 
 ## COMPANION LOGOS
 
-The sub-brands or applied logos must followthe above rules.
+The sub-brands or applied logos must follow the above rules.
 
 ![](/images/12.png)
 
-## GITHUB / LAUNCHPAD ICONS
+## TEAMS ICONS
 
 The GitHub / Launchpad teams will be identified by "family icons", meaning that the main image will
 remain the **Lubuntu** icon, identifying each family (team) with a monochromatic overlay glyph.
@@ -133,6 +133,6 @@ The typography used for all interfaces and media must be the Ubuntu Font, design
 
 ## THANK YOU!
 
-♥♥♥
+# ♥
 
 The **Lubuntu** corporate image and the manual were possible thanks to the **Lubuntu Team** work and community support.
