@@ -34,3 +34,39 @@ Please note that these pages were printed on a laser printer and colours are not
 For the sake of legibility, the logo must never use uppercase letters at all. The font used must always be the Ubuntu Font Family. The roundel is a key component of branding in the Ubuntu Family.
 
 ![](/images/02.png)
+
+
+## EXCLUSION ZONE
+
+Defining the exclusion zone.
+
+The logo must always have a clear surrounding it, free fromany other element.
+![](/images/03.png)
+
+## SIGNATURE
+
+The symbol is the new LXQt desktop hummingbird mascot. It's position is calculated
+to appear visually centered and balanced. The bird must be white, not transparent, nor
+of any other colour.
+
+Colour of the roundel can only be Blue #68c8ff or Grey.
+![](/images/04.png)
+
+## LOGO COLOURWAYS
+
+### Wordmark - available colourways
+
+The wordmark is supplied as Pantone®and CMYK version for print, and RGB / HEX
+versions for web. It can only be used on one of the given colours.
+
+Never change any of the colours in the logo.
+![](/images/05.png)
+
+## SIGNATURE COLOURWAYS
+
+The signature is supplied as Pantone®and CMYK versions for print, and RGB / HEX
+versions for web. It can only be used on one of the given colours.
+
+Never change any of the colours in the logo.
+![](/images/06.png)
+
