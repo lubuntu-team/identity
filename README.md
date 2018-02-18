@@ -56,7 +56,7 @@ Colour of the roundel can only be Blue #68c8ff or Grey.
 
 ## LOGO COLOURWAYS
 
-The wordmark is supplied as Pantone®and CMYK version for print, and RGB / HEX
+The wordmark is supplied as Pantone® and CMYK version for print, and RGB / HEX
 versions for web. It can only be used on one of the given colours.
 
 Never change any of the colours in the logo.
@@ -64,7 +64,7 @@ Never change any of the colours in the logo.
 
 ## SYMBOL COLOURWAYS
 
-The symbol is supplied as Pantone®and CMYK versions for print, and RGB / HEX
+The symbol is supplied as Pantone® and CMYK versions for print, and RGB / HEX
 versions for web. It can only be used on one of the given colours.
 
 Never change any of the colours in the logo.
