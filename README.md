@@ -18,9 +18,9 @@ Please note that these pages were printed on a laser printer and colours are not
 
 * [The Logo](#the-logo)
 * [Exclusion zone](#exclusion-zone)
-* [Signature](#signature)
+* [Symbol](#symbol)
 * [Logo Colour Ways](#logo-colourways)
-* [Signature Colourways](#signature-colourways)
+* [Symbol Colourways](#symbol-colourways)
 * [Colours](#colours)
 * [Minimum Size](#minimum-size)
 * [Incorrect Uses](#incorrect-uses)
@@ -45,7 +45,7 @@ Defining the exclusion zone.
 The logo must always have a clear surrounding it, free fromany other element.
 ![](/images/03.png)
 
-## SIGNATURE
+## SYMBOL
 
 The symbol is the new LXQt desktop hummingbird mascot. It's position is calculated
 to appear visually centered and balanced. The bird must be white, not transparent, nor
@@ -62,9 +62,9 @@ versions for web. It can only be used on one of the given colours.
 Never change any of the colours in the logo.
 ![](/images/05.png)
 
-## SIGNATURE COLOURWAYS
+## SYMBOL COLOURWAYS
 
-The signature is supplied as Pantone®and CMYK versions for print, and RGB / HEX
+The symbol is supplied as Pantone®and CMYK versions for print, and RGB / HEX
 versions for web. It can only be used on one of the given colours.
 
 Never change any of the colours in the logo.
