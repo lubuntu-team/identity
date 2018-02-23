@@ -42,12 +42,12 @@ For the sake of legibility, the logo must never use uppercase letters at all. Th
 
 Defining the exclusion zone.
 
-The logo must always have a clear surrounding it, free fromany other element.
+The logo must always have a clear surrounding it, free from any other element.
 ![](/images/03.png)
 
 ## SYMBOL
 
-The symbol is the new LXQt desktop hummingbird mascot. It's position is calculated
+The symbol is the new LXQt desktop hummingbird mascot. It’s position is calculated
 to appear visually centered and balanced. The bird must be white, not transparent, nor
 of any other colour.
 
@@ -82,7 +82,7 @@ The standard version of the logo must never be used at a width less than 5cm.
 
 ## INCORRECT USES
 
-You must not...
+You must not…
 
 * Change the spacing between the individual elements of characters
 * Change the colour of the wordmark
@@ -92,14 +92,14 @@ You must not...
 * Change the proportions of the logo
 * Place the logo on a non brand colour
 
-Below you'll find examples of how the logo should not be used:
+Below you’ll find examples of how the logo should not be used:
 
 ![](/images/09.png)
 
 ## COLOUR COMBINATIONS
 
 Depending on the background the logo might be shown in different ways.
-When the background intensity is over 50%intensity the logo will turn white.
+When the background intensity is over 50% intensity the logo will turn white.
 
 ![](/images/10.png)
 ![](/images/11.png)
@@ -112,7 +112,7 @@ The sub-brands or applied logos must follow the above rules.
 
 ## TEAMS ICONS
 
-The GitHub / Launchpad teams will be identified by "family icons", meaning that the main image will
+The GitHub / Launchpad teams will be identified by “family icons”, meaning that the main image will
 remain the **Lubuntu** icon, identifying each family (team) with a monochromatic overlay glyph.
 For the very small icons on Launchpad (14px) only the overlay will be used.
 
